@@ -2,26 +2,26 @@
   <img src="screenshots/00-cover.png" alt="Lifeline Medical Hospital" width="320">
 </p>
 
-# 🏥 Lifeline Medical Hospital: Doctor Appointment Booking System
+#  Lifeline Medical Hospital: Doctor Appointment Booking System
 
 A **C# Windows Forms desktop application** that replaces walk-in queues at a state-owned hospital with a structured appointment booking process. Administrators register patients, manage departments and doctors, and book appointments, while doctors manage patient medical records. The system validates South African ID numbers, auto-fills patient details and gives management a dashboard of key figures.
 
-> 🎓 **Module:** Programming and Database (ISTN 212) · University of KwaZulu-Natal
-> 👥 **Type:** Group project (Jul to Dec 2025) · **My role:** Project Leader, managing the full SDLC from requirements analysis and design to development and testing
+>  **Module:** Programming and Database (ISTN 212) · University of KwaZulu-Natal
+>  **Type:** Group project (Jul to Dec 2025) · **My role:** Project Leader, managing the full SDLC from requirements analysis and design to development and testing
 
 ---
 
-## 🎯 The problem
+##  The problem
 
 Lifeline Hospital serves a large community and offers specialist care (cardiology, dermatology, neurology, paediatrics, orthopaedics, general medicine and more). Without a formal appointment system, patients walk in and wait for hours. This causes overcrowding, patient dissatisfaction, and lost or delayed appointments.
 
-## 💡 The solution
+##  The solution
 
 A booking application that lets hospital staff schedule appointments by specialty, keeps accurate patient and doctor records, and gives administrators and doctors separate, role-based workspaces. The result is shorter waiting times, better use of doctors' time and more reliable records.
 
 ---
 
-## ✨ Key features
+##  Key features
 
 - **Animated splash screen** with a loading indicator while the system starts
 - **Secure login** with Administrator and Doctor roles, show/hide password and a strong-password rule
@@ -36,7 +36,7 @@ A booking application that lets hospital staff schedule appointments by specialt
 
 ---
 
-## 🧰 Tech stack
+##  Tech stack
 
 | Layer | Technology |
 |---|---|
@@ -49,7 +49,7 @@ A booking application that lets hospital staff schedule appointments by specialt
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ![Splash screen](screenshots/01-splash-screen.png)
 
@@ -61,7 +61,7 @@ A booking application that lets hospital staff schedule appointments by specialt
 
 ---
 
-## 🚀 Getting started
+##  Getting started
 
 ### Prerequisites
 - Windows 10 or 11
@@ -87,26 +87,26 @@ The application starts with the splash screen and then opens the **Login** page.
 
 ---
 
-## 🗺️ How the application flows
+##  How the application flows
 
 `Splash screen` → `Login` → **Admin:** `Dashboard · Patients · Doctors · Appointments · Departments` → `Book Appointment`
 `Splash screen` → `Login` → **Doctor:** `Medical Records · Doctors`
 
 ---
 
-## 📚 Documentation
+##  Documentation
 
 Full documentation (problem, solution, requirements, form-by-form description, validation rules, testing and future improvements) is in **[docs/DOCUMENTATION.md](docs/DOCUMENTATION.md)**.
 
 ---
 
-## 🔒 Security and privacy note
+##  Security and privacy note
 
 No real credentials, patient data or student numbers are stored in this repository. Database connection strings and passwords must be kept out of source control. Any sample data used for demonstration should be fictional.
 
 ---
 
-## 🔮 Future improvements
+##  Future improvements
 
 - Patient self-service portal for booking online
 - Email and SMS appointment confirmations and reminders
@@ -118,14 +118,14 @@ No real credentials, patient data or student numbers are stored in this reposito
 
 ---
 
-## 👥 Project team
+##  Project team
 
 Asanda Jele · Minenhle Ndlovu · Nomcebo Zulu · **Bongumusa Gumede (Project Leader)** · Halalisani Ngcobo · Lungisani Mnyandu
 
 ---
 
-## 👤 Author
+##  Author
 
 **Bongumusa Seluleko Gumede**
 BCom Information Systems & Technology, University of KwaZulu-Natal
-🔗 [LinkedIn](https://www.linkedin.com/in/bongumusagumede/) · 💻 [GitHub](https://github.com/musahhh4)
+ [LinkedIn](https://www.linkedin.com/in/bongumusagumede/) ·  [GitHub](https://github.com/musahhh4)
